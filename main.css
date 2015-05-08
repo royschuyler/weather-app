@@ -1,0 +1,16 @@
+button {
+  color: white;
+  background: darkgreen;
+}
+
+.locationBtn {
+  background: red;
+}
+
+h2 {
+  color: darkblue;
+}
+
+input {
+  border: solid 2px darkgreen;
+}
